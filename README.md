@@ -1,2 +1,2 @@
 # flipr-hiring-project
-Flipr hackathon hiring 4.0 project
+Flipr hackathon hiring program 4.0
